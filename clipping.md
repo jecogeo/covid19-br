@@ -7,13 +7,16 @@ você pode propor uma mudança nesse arquivo diretamente pelo botão "editar". :
 
 ## Notícias
 
+- [2020-06-03 A crítica - Tecnologias de georreferenciamento ficam em alta durante a pandemia](https://www.acritica.com/channels/dinheiro/news/georreferenciamento-em-alta-durante-a-pandemia)
 - [2020-05-29 O Estado de São Paulo - Em SP, 86% das cidades que tiveram alta de casos poderão reabrir comércio](https://saude.estadao.com.br/noticias/geral,em-sp-86-das-cidades-que-tiveram-alta-de-casos-poderao-reabrir-comercio,70003318294)
 - [2020-05-29 IstoÉ - Plataforma facilita visualização do avanço da Covid-19 no Brasil](https://istoe.com.br/plataforma-facilita-visualizacao-do-avanco-da-covid-19-no-brasil/)
+- [2020-05-12 Instituto Mamirauá - Estudo avalia impacto de medidas de distanciamento social sobre populações rurais do Amazonas](https://www.mamiraua.org.br/?intSecao=10&intConteudo=3212)
 - [2020-05-12 The New York Times - 71,000 Missing Deaths: Tracking the True Toll of the Coronavirus Outbreak](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html?action=click&module=RelatedLinks&pgtype=Article)
 - [2020-05-05 Jornal Nacional - Mortes naturais aumentam 30% nas cinco cidades mais atingidas por coronavírus no Brasil](https://globoplay.globo.com/v/8533526/programa/)
 - [2020-05-04 Revista Piauí - A pandemia no interior do país](https://piaui.folha.uol.com.br/pandemia-no-interior-do-pais/)
 - [2020-04-30 Nexo Jornal - A evolução dos casos de covid-19 nos municípios brasileiros](https://www.nexojornal.com.br/grafico/2020/04/30/A-evolu%C3%A7%C3%A3o-dos-casos-de-covid-19-nos-munic%C3%ADpios-brasileiros)
 - [2020-04-29 BBC News Brasil - Coronavírus: quantos casos e mortes por covid-19 há em sua cidade?](https://www.bbc.com/portuguese/brasil-52472202)
+- [2020-04-20 Instituto Mamirauá lança plataforma para monitorar avanço da COVID-19 no Amazonas](https://www.mamiraua.org.br/noticias/instituto-mamiraua-lanca-plataforma-para-monitorar-avan%C3%A7o-da-covid19-no-amazonas)
 - [2020-04-20 Congresso em Foco - Painel traz dados da pandemia em tempo real na sua cidade e no mundo](https://congressoemfoco.uol.com.br/congresso-em-foco/painel-traz-dados-da-pandemia-em-tempo-real-na-sua-cidade-e-no-mundo/)
 - [2020-04-18 Band News - Coronavírus: pesquisa mede o ritmo de infecção no Brasil](https://www.youtube.com/watch?v=kGzapwndJwE)
 - [2020-04-16 UFMG Notícias - Estudo acompanha evolução da transmissão do coronavírus nos estados](https://ufmg.br/comunicacao/noticias/estudo-de-professor-do-dcc-acompanha-evolucao-da-transmissao-do-coronavirus-nos-estados)
@@ -119,6 +122,7 @@ você pode propor uma mudança nesse arquivo diretamente pelo botão "editar". :
 
 ## Publicações Científicas
 
+- [Disseminação da COVID-19 em cidades e localidades rurais da Amazônia Central](https://preprints.scielo.org/index.php/scielo/preprint/view/406/507)
 - [COVID-19 e hospitalizações por SRAG no Brasil: uma comparação até a 12a semana epidemiológica de 2020](https://www.scielo.br/pdf/csp/v36n4/1678-4464-csp-36-04-e00070120.pdf)
 - [Short-term forecasting COVID-19 cumulative confirmed cases: Perspectives for Brazil](https://www.researchgate.net/publication/341025731_Short-term_forecasting_COVID-19_cumulative_confirmed_cases_Perspectives_for_Brazil) ([Science Direct](https://www.sciencedirect.com/science/article/pii/S0960077920302538))
 
